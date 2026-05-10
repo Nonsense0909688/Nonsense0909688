@@ -40,22 +40,18 @@ Currently exploring:
 ### Backend
 
 * Node.js
-* Express
 * Flask
 * REST APIs
 * Authentication systems
 
 ### Frontend
 
-* React
-* Next.js
-* TailwindCSS
+* HTML
 
 ### Databases
 
 * PostgreSQL
 * SQLite
-* MongoDB
 
 ### Other
 
